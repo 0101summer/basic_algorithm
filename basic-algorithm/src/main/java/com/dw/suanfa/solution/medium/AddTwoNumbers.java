@@ -1,4 +1,4 @@
-package com.dw.suanfa.solution;
+package com.dw.suanfa.solution.medium;
 
 import com.dw.suanfa.bean.ListNode;
 

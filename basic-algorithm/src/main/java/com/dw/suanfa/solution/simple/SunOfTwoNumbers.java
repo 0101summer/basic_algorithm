@@ -1,4 +1,4 @@
-package com.dw.suanfa.solution;
+package com.dw.suanfa.solution.simple;
 
 import java.util.HashMap;
 import java.util.Map;

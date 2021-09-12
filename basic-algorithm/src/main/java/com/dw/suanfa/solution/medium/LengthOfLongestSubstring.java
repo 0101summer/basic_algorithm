@@ -1,4 +1,4 @@
-package com.dw.suanfa.solution;
+package com.dw.suanfa.solution.medium;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -13,7 +13,8 @@ public class LengthOfLongestSubstring {
      * @param args
      */
     public static void main(String[] args) {
-        System.out.println(getLengthOfLongestSubstring());
+//        System.out.println(getLengthOfLongestSubstring());
+        System.out.println("agrohyglewhjh".charAt(0));
     }
 
     /**
