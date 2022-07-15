@@ -15,7 +15,7 @@ public class SunOfTwoNumbers {
         int[] sumOfTwoNumbers = getSumOfTwoNumbers();
         for (int i : sumOfTwoNumbers) {
             System.out.println(i);
-        }
+        } 
     }
 
     private static int[] getSumOfTwoNumbers(){
