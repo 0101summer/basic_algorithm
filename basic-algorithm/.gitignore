@@ -1,0 +1,16 @@
+.svn/
+.project
+.mymetadata
+.classpath
+.settings/
+target/
+store/
+logs/
+.mule/
+**/*.iml
+.idea/
+release/
+releasex64/
+cias.test.specification/fileBackup/
+cias.test.specification/tmp/files
+/db/cias.db.mysql/doc/

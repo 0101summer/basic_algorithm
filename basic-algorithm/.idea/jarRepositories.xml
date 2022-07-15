@@ -2,14 +2,14 @@
 <project version="4">
   <component name="RemoteRepositoriesConfiguration">
     <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="Baidu_Local_Snapshots" />
       <option name="name" value="Baidu_Local_Snapshots" />
       <option name="url" value="http://maven.scm.baidu.com:8081/nexus/content/repositories/Baidu_Local_Snapshots" />
-    </remote-repository>
-    <remote-repository>
-      <option name="id" value="Baidu_Local" />
-      <option name="name" value="Baidu_Local" />
-      <option name="url" value="http://maven.scm.baidu.com:8081/nexus/content/repositories/Baidu_Local" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="baidu-nuomi" />
@@ -17,9 +17,9 @@
       <option name="url" value="http://maven.scm.baidu.com:8081/nexus/content/repositories/Nuomi/" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="central" />
-      <option name="name" value="Central Repository" />
-      <option name="url" value="https://repo.maven.apache.org/maven2" />
+      <option name="id" value="baidu-nuomi-SNAPSHOT" />
+      <option name="name" value="baidu-nuomi-SNAPSHOT" />
+      <option name="url" value="http://maven.scm.baidu.com:8081/nexus/content/repositories/Nuomi-snapshots/" />
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
@@ -32,14 +32,14 @@
       <option name="url" value="http://maven.scm.baidu.com:8081/nexus/content/groups/public" />
     </remote-repository>
     <remote-repository>
-      <option name="id" value="baidu-nuomi-SNAPSHOT" />
-      <option name="name" value="baidu-nuomi-SNAPSHOT" />
-      <option name="url" value="http://maven.scm.baidu.com:8081/nexus/content/repositories/Nuomi-snapshots/" />
-    </remote-repository>
-    <remote-repository>
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Baidu_Local" />
+      <option name="name" value="Baidu_Local" />
+      <option name="url" value="http://maven.scm.baidu.com:8081/nexus/content/repositories/Baidu_Local" />
     </remote-repository>
   </component>
 </project>
